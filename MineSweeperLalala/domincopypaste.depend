@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1652686680 source:c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\buttons.cpp
+	<iostream>
+	"main.h"
+	"Button.h"
+	"ThapCam.h"
+
+1652681103 c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\main.h
+
+1652686680 c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\button.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1652683094 c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\thapcam.h
+	<iostream>
+	<ctime>
+	<stdio.h>
+	"main.h"
+	"ThapCam.h"
+	"Variables.h"
+
+1652681442 c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\variables.h
+	<vector>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"Texture.h"
+	"Button.h"
+
+1652681838 c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1652683059 source:c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\main.cpp
+	<iostream>
+	"ThapCam.h"
+
+1652683028 source:c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\texture.cpp
+	<iostream>
+	"Texture.h"
+	"Variables.h"
+
+1652684435 source:c:\users\admin\onedrive\máy tính\huhuhu\minesweeperlalala\variables.cpp
+	<iostream>
+	"Variables.h"
+
